@@ -2,5 +2,5 @@
 
 My Personal Java Projects.
 -----------------------------------------------------------------------------------------------------------------------------------------
-[Account Balance & Interest Calculator](Section-01-Getting-Started-And-Assessment/email.md)
+[Account Balance & Interest Calculator](Balance & Interest Calculator.Md)
 -----------------------------------------------------------------------------------------------------------------------------------------
