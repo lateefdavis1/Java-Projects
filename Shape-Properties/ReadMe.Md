@@ -1,1 +1,1 @@
-#A Program that prints the Radius of a Circle, a Rectangles Perimeter and Area, and the Area of a Triangle. 
+#A Program that prints the Area of a Circle, Triangle and a Rectangles Perimeter and Area. 
