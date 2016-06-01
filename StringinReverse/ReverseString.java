@@ -6,8 +6,8 @@ public class ReverseString {
 
 	public static void main(String[] args) 
 	{
-		//Variable Declaration for User Input
-		String original;
+	    //Variable Declaration for User Input
+	    String original;
 		
 		//Placeholder for String Reversal
 	    String reverse = "";
