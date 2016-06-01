@@ -41,7 +41,7 @@ public class DaysInAMonth {
         	
         	case 2:
         	  System.out.println("");
-              	  System.out.println("29");
+              	  System.out.println("28");
               
               	  break;
         
