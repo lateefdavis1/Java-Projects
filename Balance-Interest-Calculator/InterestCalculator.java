@@ -10,6 +10,7 @@ import java.util.*;
         final double INITIAL_BALANCE = 1000;
         double balance = INITIAL_BALANCE;
 
+       //Prompts user to enter the number of years for calculations
        System.out.print ("Enter number of years: ");
         Scanner in = new Scanner (System.in);
        int nyears = in.nextInt();
