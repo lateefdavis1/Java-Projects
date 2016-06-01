@@ -5,7 +5,9 @@ Constant initial balance = $1,000.00;
 
 Constant balance = initial balance; //reference variable for initial balance
 
+
 //For loop that iterates through the provided number of years
+
 
 For each year
 
